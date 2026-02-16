@@ -15,5 +15,5 @@ void main()
 	scanf("%d%d",&c2.r,&c2.i);
 	c3.r=c1.r+c2.r;
 	c3.i=c1.i+c2.i;
-	printf("%d,%d i",c3.r,c3.i);
+	printf("%d+%di",c3.r,c3.i);
 }
